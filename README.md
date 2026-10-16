@@ -1,4 +1,4 @@
-# longtail-synthetic-augmentation
+# Longtail Synthetic Augmentation
 
 > **Synthetic Data Augmentation Experiments for Long-Tail Image Classification**
 
